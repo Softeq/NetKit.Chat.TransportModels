@@ -3,7 +3,7 @@
 
 using System;
 
-namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Channel
+namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Channel
 {
     public class CreateDirectChannelRequest
     {

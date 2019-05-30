@@ -5,11 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <Folder Include="Models\CommonModels\Localization\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\CommonModels\Localization\" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
   </ItemGroup>
 
 </Project>

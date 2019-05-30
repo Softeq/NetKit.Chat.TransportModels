@@ -3,7 +3,7 @@
 
 using System.Collections;
 
-namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Localization
+namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Localization
 {
     public class LocalizationResponse
     {

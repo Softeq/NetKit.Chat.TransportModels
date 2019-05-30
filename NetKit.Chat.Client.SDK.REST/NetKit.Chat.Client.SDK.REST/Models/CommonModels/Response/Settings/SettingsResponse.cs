@@ -3,7 +3,7 @@
 
 using System;
 
-namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Settings
+namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Settings
 {
    public class SettingsResponse
     {

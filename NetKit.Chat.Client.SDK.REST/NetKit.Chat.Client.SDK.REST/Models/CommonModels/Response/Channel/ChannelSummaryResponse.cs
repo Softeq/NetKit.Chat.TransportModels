@@ -2,12 +2,12 @@
 // http://www.softeq.com
 
 using System;
-using NetKit.Chat.Client.SDK.REST.Enums;
-using NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Member;
-using NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Message;
 using Newtonsoft.Json;
+using Softeq.NetKit.Chat.Client.SDK.REST.Enums;
+using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Member;
+using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Message;
 
-namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Channel
+namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Channel
 {
     public class ChannelSummaryResponse
     {

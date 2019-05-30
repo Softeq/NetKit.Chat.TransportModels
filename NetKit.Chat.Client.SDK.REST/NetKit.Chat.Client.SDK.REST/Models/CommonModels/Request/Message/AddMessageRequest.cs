@@ -2,9 +2,9 @@
 // http://www.softeq.com
 
 using System;
-using NetKit.Chat.Client.SDK.REST.Enums;
+using Softeq.NetKit.Chat.Client.SDK.REST.Enums;
 
-namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Message
+namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Message
 {
    public class AddMessageRequest
     {

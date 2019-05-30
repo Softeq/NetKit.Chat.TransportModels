@@ -2,9 +2,9 @@
 // http://www.softeq.com
 
 using System.Collections.Generic;
-using NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Message;
+using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Message;
 
-namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response
+namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response
 {
    public class MessagesResult
     {

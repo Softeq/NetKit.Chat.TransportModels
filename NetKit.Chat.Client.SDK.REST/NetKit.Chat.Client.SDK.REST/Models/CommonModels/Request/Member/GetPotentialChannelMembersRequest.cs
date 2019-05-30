@@ -1,7 +1,7 @@
 ﻿// Developed by Softeq Development Corporation
 // http://www.softeq.com
 
-namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Member
+namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Member
 {
     public class GetPotentialChannelMembersRequest
     {
