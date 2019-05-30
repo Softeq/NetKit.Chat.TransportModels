@@ -1,7 +1,7 @@
 ﻿// Developed by Softeq Development Corporation
 // http://www.softeq.com
 
-namespace NetKit.Chat.Client.SDK.REST.CommonModels.Channel
+namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Channel
 {
     public class UpdateChannelRequest
     {

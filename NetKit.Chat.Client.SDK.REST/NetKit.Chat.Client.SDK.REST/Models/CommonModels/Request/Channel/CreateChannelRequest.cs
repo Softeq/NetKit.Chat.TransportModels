@@ -4,7 +4,7 @@
 using System.Collections.Generic;
 using NetKit.Chat.Client.SDK.REST.Enums;
 
-namespace NetKit.Chat.Client.SDK.REST.CommonModels.Channel
+namespace NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Channel
 {
     public class CreateChannelRequest
     {
