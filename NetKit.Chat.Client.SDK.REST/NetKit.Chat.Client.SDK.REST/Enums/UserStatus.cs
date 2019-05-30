@@ -1,7 +1,7 @@
 ﻿// Developed by Softeq Development Corporation
 // http://www.softeq.com
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Enums
+namespace Softeq.NetKit.Chat.Client.SDK.Enums
 {
     public enum UserStatus
     {

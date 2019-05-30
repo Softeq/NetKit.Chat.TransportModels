@@ -2,9 +2,9 @@
 // http://www.softeq.com
 
 using System.Collections.Generic;
-using Softeq.NetKit.Chat.Client.SDK.REST.Enums;
+using Softeq.NetKit.Chat.Client.SDK.Enums;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Channel
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Channel
 {
     public class CreateChannelRequest
     {

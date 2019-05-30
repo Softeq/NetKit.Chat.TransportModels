@@ -2,10 +2,10 @@
 // http://www.softeq.com
 
 using System;
-using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Channel;
-using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Member;
+using Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Channel;
+using Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Member;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Message
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Message
 {
    public class ForwardMessageResponse
     {

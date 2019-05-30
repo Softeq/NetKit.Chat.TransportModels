@@ -4,9 +4,9 @@
 using System;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
-using Softeq.NetKit.Chat.Client.SDK.REST.Enums;
+using Softeq.NetKit.Chat.Client.SDK.Enums;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Member
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Member
 {
     public class MemberSummaryResponse
     {

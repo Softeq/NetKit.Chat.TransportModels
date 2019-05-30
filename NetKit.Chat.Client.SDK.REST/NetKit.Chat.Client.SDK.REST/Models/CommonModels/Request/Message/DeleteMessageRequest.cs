@@ -3,7 +3,7 @@
 
 using System;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Message
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Message
 {
    public class DeleteMessageRequest
     {

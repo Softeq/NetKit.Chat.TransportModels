@@ -4,7 +4,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Request.Member
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Member
 {
     public class InviteMultipleMembersRequest
     {

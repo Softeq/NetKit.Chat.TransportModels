@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softeq.NetKit.Chat.Client.SDK.REST", "NetKit.Chat.Client.SDK.REST\Softeq.NetKit.Chat.Client.SDK.REST.csproj", "{97CAF584-6A17-4DF4-8026-EC34EF97A72E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softeq.NetKit.Chat.Client.SDK", "NetKit.Chat.Client.SDK.REST\Softeq.NetKit.Chat.Client.SDK.csproj", "{97CAF584-6A17-4DF4-8026-EC34EF97A72E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

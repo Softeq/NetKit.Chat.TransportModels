@@ -3,7 +3,7 @@
 
 using System;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.MessageAttachment
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.MessageAttachment
 {
    public class AttachmentResponse
     {

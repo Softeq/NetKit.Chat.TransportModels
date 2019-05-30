@@ -2,11 +2,11 @@
 // http://www.softeq.com
 
 using System;
-using Softeq.NetKit.Chat.Client.SDK.REST.Enums;
-using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Member;
-using Softeq.NetKit.Chat.Client.SDK.REST.Models.Visitors.Localization;
+using Softeq.NetKit.Chat.Client.SDK.Enums;
+using Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Member;
+using Softeq.NetKit.Chat.Client.SDK.Models.Visitors.Localization;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Message
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Message
 {
     public class MessageResponse : LocalizedMessageResponse<MessageResponse>
     {

@@ -3,9 +3,9 @@
 
 using System;
 using Newtonsoft.Json;
-using Softeq.NetKit.Chat.Client.SDK.REST.Enums;
+using Softeq.NetKit.Chat.Client.SDK.Enums;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Channel
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Channel
 {
     public class ChannelResponse
     {

@@ -3,11 +3,11 @@
 
 using System;
 using Newtonsoft.Json;
-using Softeq.NetKit.Chat.Client.SDK.REST.Enums;
-using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Member;
-using Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Message;
+using Softeq.NetKit.Chat.Client.SDK.Enums;
+using Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Member;
+using Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Message;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Models.CommonModels.Response.Channel
+namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Channel
 {
     public class ChannelSummaryResponse
     {

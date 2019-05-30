@@ -4,7 +4,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Softeq.NetKit.Chat.Client.SDK.REST.Enums
+namespace Softeq.NetKit.Chat.Client.SDK.Enums
 {
     [JsonConverter(typeof(StringEnumConverter))]
     public enum NotificationSettingValue
