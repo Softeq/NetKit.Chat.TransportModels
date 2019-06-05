@@ -3,7 +3,7 @@
 
 using System;
 
-namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Response.Client
+namespace Softeq.NetKit.Chat.Client.SDK.Models.SignalRModels.Client
 {
    public class ClientResponse
     {

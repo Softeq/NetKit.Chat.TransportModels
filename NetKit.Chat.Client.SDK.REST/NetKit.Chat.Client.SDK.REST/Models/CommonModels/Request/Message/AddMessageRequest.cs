@@ -10,6 +10,8 @@ namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Message
     {
         public Guid ChannelId { get; set; }
 
+        public string ClientConnectionId { get; set; }
+
         public string Body { get; set; }
 
         public MessageType Type { get; set; }
