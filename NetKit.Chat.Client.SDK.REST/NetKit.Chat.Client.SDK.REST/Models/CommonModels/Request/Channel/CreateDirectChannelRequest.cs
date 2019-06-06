@@ -8,8 +8,5 @@ namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Channel
     public class CreateDirectChannelRequest
     {
         public Guid MemberId { get; set; }
-
-       // Need to discuss
-       // public ChannelType Type { get; } = ChannelType.Direct;
     }
 }
