@@ -7,8 +7,8 @@ namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Message
 {
     public class UpdateMessageRequest
     {
-        public Guid MessageId { get; }
+        public Guid MessageId { get; set; }
 
-        public string Body { get; }
+        public string Body { get; set; }
     }
 }
