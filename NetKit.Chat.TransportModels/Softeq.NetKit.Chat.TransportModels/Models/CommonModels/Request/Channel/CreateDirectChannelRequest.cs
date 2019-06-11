@@ -3,9 +3,9 @@
 
 using System;
 
-namespace NetKit.Chat.Client.SDK.REST.CommonModels.Channel
+namespace Softeq.NetKit.Chat.TransportModels.Models.CommonModels.Request.Channel
 {
-    public class CreateDirectChannelRequest
+    public class CreateDirectChannelRequest : BaseRequest
     {
         public Guid MemberId { get; set; }
     }

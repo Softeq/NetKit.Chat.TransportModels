@@ -2,11 +2,11 @@
 // http://www.softeq.com
 
 using System.Collections.Generic;
-using NetKit.Chat.Client.SDK.REST.Enums;
+using Softeq.NetKit.Chat.TransportModels.Enums;
 
-namespace NetKit.Chat.Client.SDK.REST.CommonModels.Channel
+namespace Softeq.NetKit.Chat.TransportModels.Models.CommonModels.Request.Channel
 {
-    public class CreateChannelRequest
+    public class CreateChannelRequest : BaseRequest
     {
         public CreateChannelRequest()
         {
@@ -14,15 +14,10 @@ namespace NetKit.Chat.Client.SDK.REST.CommonModels.Channel
         }
 
         public string Name { get; set; }
-
         public ChannelType Type { get; set; }
-
         public string Description { get; set; }
-
         public string WelcomeMessage { get; set; }
-
         public List<string> AllowedMembers { get; set; }
-
         public string PhotoUrl { get; set; }
     }
 }
