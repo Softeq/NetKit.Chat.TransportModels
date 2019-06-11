@@ -8,7 +8,6 @@ namespace Softeq.NetKit.Chat.TransportModels.Models.CommonModels.Request.Message
     public class DeleteMessageAttachmentRequest : BaseRequest
     {
         public Guid MessageId { get; set; }
-
         public Guid AttachmentId { get; set; }
     }
 }

@@ -14,15 +14,10 @@ namespace Softeq.NetKit.Chat.TransportModels.Models.CommonModels.Request.Channel
         }
 
         public string Name { get; set; }
-
         public ChannelType Type { get; set; }
-
         public string Description { get; set; }
-
         public string WelcomeMessage { get; set; }
-
         public List<string> AllowedMembers { get; set; }
-
         public string PhotoUrl { get; set; }
     }
 }

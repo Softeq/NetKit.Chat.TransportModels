@@ -8,7 +8,6 @@ namespace Softeq.NetKit.Chat.TransportModels.Models.CommonModels.Request.Member
     public class DeleteMemberRequest : BaseRequest
     {
         public Guid ChannelId { get; set; }
-
         public Guid MemberId { get; set; }
     }
 }

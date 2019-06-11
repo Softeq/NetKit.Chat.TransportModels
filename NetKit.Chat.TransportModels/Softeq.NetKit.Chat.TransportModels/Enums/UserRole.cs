@@ -4,8 +4,8 @@
 namespace Softeq.NetKit.Chat.TransportModels.Enums
 {
     public enum UserRole
-        {
-            User = 0,
-            Admin = 1
-        }
+    {
+        User = 0,
+        Admin = 1
+    }
 }

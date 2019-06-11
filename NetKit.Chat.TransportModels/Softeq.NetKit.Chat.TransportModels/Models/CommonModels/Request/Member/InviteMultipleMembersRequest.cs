@@ -14,7 +14,6 @@ namespace Softeq.NetKit.Chat.TransportModels.Models.CommonModels.Request.Member
         }
 
         public Guid ChannelId { get; set; }
-
         public List<Guid> InvitedMembersIds { get; set; }
     }
 }
