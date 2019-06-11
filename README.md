@@ -1,6 +1,6 @@
 # NetKit.Chat.TransportModels
 
-Open source library with common models for [Chat](https://github.com/Softeq/NetKit.Chat) and [Mobile](https://github.com/Softeq/XToolkit.Chat/tree/master/Softeq.XToolkit.Chat.SignalRClient) apps. 
+Open source library with common models for [Chat](https://github.com/Softeq/NetKit.Chat) and [Mobile](https://github.com/Softeq/XToolkit.Chat) apps. 
 This project uses .NET Standard 2.0
 
 ## Development setup
