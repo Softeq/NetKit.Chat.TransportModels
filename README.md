@@ -1,3 +1,6 @@
+![NuGet](https://img.shields.io/nuget/v/Softeq.NetKit.Chat.TransportModels.svg)
+![Azure DevOps builds](https://dev.azure.com/SofteqDevelopment/NetKit/_apis/build/status/Chat.Client.SDK/Chat-TransportModels-CI-Build)
+
 # NetKit.Chat.TransportModels
 
 Open source library with common models for [Chat](https://github.com/Softeq/NetKit.Chat) and [Mobile](https://github.com/Softeq/XToolkit.Chat) apps. 
