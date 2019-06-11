@@ -5,7 +5,7 @@ using System;
 
 namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Channel
 {
-   public class ChannelRequest
+   public class ChannelRequest : BaseRequest
     {
         public Guid ChannelId { get; set; }
     }

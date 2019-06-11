@@ -3,7 +3,7 @@
 
 namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Client
 {
-   public class DeleteClientRequest
+   public class DeleteClientRequest : BaseRequest
     {
         public DeleteClientRequest(string clientConnectionId)
         {

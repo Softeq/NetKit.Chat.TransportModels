@@ -5,7 +5,7 @@ using System;
 
 namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Channel
 {
-    public class PinChannelRequest
+    public class PinChannelRequest : BaseRequest
     {
         public Guid ChannelId { get; set; }
         public bool IsPinned { get; set; }

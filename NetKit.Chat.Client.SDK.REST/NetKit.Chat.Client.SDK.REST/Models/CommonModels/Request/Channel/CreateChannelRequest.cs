@@ -6,7 +6,7 @@ using Softeq.NetKit.Chat.Client.SDK.Enums;
 
 namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Channel
 {
-    public class CreateChannelRequest
+    public class CreateChannelRequest : BaseRequest
     {
         public CreateChannelRequest()
         {

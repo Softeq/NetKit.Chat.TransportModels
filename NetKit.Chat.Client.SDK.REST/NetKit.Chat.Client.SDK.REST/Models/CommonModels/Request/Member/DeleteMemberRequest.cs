@@ -5,7 +5,7 @@ using System;
 
 namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Member
 {
-    public class DeleteMemberRequest
+    public class DeleteMemberRequest : BaseRequest
     {
         public Guid ChannelId { get; set; }
 

@@ -6,7 +6,7 @@ using Softeq.NetKit.Chat.Client.SDK.Enums;
 
 namespace Softeq.NetKit.Chat.Client.SDK.Models.CommonModels.Request.Message
 {
-   public class AddMessageRequest
+   public class AddMessageRequest : BaseRequest
     {
         public Guid ChannelId { get; set; }
 
